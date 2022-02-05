@@ -1,0 +1,25 @@
+body {
+  margin: 40px;
+  background-color:#d6eaf8;
+  align-items:center;
+  border:2px #85929e;
+  }
+#base{
+font-size: 16px;
+margin-top: 16px;
+}
+#height{
+font-size: 16px;
+}
+#output{
+font-size: 16px;
+border-width: 2px;
+border-color: blue;
+}
+.buttn{
+  background-color:#a9dfbf;
+  font-size: 16px;
+}
+p{
+  font-size: 16px;
+}
